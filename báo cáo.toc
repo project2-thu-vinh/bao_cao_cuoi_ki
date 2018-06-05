@@ -1,0 +1,21 @@
+\contentsline {section}{\numberline {1}Gi\IeC {\'\ohorn }i thi\IeC {\d \ecircumflex }u}{3}
+\contentsline {section}{\numberline {2}C\IeC {\ohorn } s\IeC {\h \ohorn } l\IeC {\'y} thuy\IeC {\'\ecircumflex }t}{4}
+\contentsline {subsection}{\numberline {2.1}Latent Dirichlet Allocation}{4}
+\contentsline {subsubsection}{\numberline {2.1.1}LDA v\IeC {\`a} t\IeC {\'\i }nh kh\IeC {\h a} chuy\IeC {\h \ecircumflex }n}{6}
+\contentsline {subsubsection}{\numberline {2.1.2}Suy di\IeC {\~\ecircumflex }n v\IeC {\`a} \IeC {\uhorn }\IeC {\'\ohorn }c l\IeC {\uhorn }\IeC {\d \ohorn }ng tham s\IeC {\'\ocircumflex }}{6}
+\contentsline {subsubsection}{\numberline {2.1.3}Suy di\IeC {\~\ecircumflex }n bi\IeC {\'\ecircumflex }n ph\IeC {\^a}n}{7}
+\contentsline {subsubsection}{\numberline {2.1.4}\IeC {\UHORN }\IeC {\'\ohorn }c l\IeC {\uhorn }\IeC {\d \ohorn }ng tham s\IeC {\'\ocircumflex }}{8}
+\contentsline {subsubsection}{\numberline {2.1.5}L\IeC {\`a}m tr\IeC {\ohorn }n m\IeC {\^o} h\IeC {\`\i }nh LDA}{9}
+\contentsline {subsubsection}{\numberline {2.1.6}M\IeC {\^o} h\IeC {\`\i }nh LDA c\IeC {\'o} nh\IeC {\~a}n}{10}
+\contentsline {subsection}{\numberline {2.2}Gi\IeC {\h a}i thu\IeC {\d \acircumflex }t PageRank}{12}
+\contentsline {subsubsection}{\numberline {2.2.1}Gi\IeC {\h a}i thu\IeC {\d \acircumflex }t PageRank g\IeC {\'\ocircumflex }c}{12}
+\contentsline {subsubsection}{\numberline {2.2.2}PageRank c\IeC {\h a}i ti\IeC {\'\ecircumflex }n v\IeC {\'\ohorn }i tri th\IeC {\'\uhorn }c ti\IeC {\^e}n nghi\IeC {\d \ecircumflex }m}{13}
+\contentsline {subsection}{\numberline {2.3}Quay tr\IeC {\h \ohorn } l\IeC {\d a}i b\IeC {\`a}i to\IeC {\'a}n tr\IeC {\'\i }ch d\IeC {\~\acircumflex }n}{14}
+\contentsline {section}{\numberline {3}Th\IeC {\d \uhorn }c nghi\IeC {\d \ecircumflex }m}{15}
+\contentsline {subsection}{\numberline {3.1}D\IeC {\~\uhorn } li\IeC {\d \ecircumflex }u}{15}
+\contentsline {subsubsection}{\numberline {3.1.1}CiteSeerX}{15}
+\contentsline {subsubsection}{\numberline {3.1.2}Open Corpus}{17}
+\contentsline {subsection}{\numberline {3.2}M\IeC {\d \ocircumflex }t s\IeC {\'\ocircumflex } c\IeC {\`a}i \IeC {\dj }\IeC {\d \abreve }t tr\IeC {\^e}n d\IeC {\~\uhorn } li\IeC {\d \ecircumflex }u}{18}
+\contentsline {subsubsection}{\numberline {3.2.1}Ti\IeC {\`\ecircumflex }n x\IeC {\h \uhorn } l\IeC {\'y} d\IeC {\~\uhorn } li\IeC {\d \ecircumflex }u}{18}
+\contentsline {subsection}{\numberline {3.3}Vector h\IeC {\'o}a d\IeC {\~\uhorn } li\IeC {\d \ecircumflex }u}{21}
+\contentsline {section}{\numberline {4}K\IeC {\'\ecircumflex }t lu\IeC {\d \acircumflex }n}{23}
